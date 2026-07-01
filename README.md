@@ -1,4 +1,4 @@
-<h1 align="center">### 💫 About Me</h1>  
+<h1 align="center">💫 About Me</h1>  
 
 <p align="center">
 I enjoy designing systems that are not only functional but also well-structured. For me, software development goes beyond writing code—it's about understanding business requirements, solving real-world problems, and creating solutions that are clean, reliable, and easy to maintain.
@@ -86,20 +86,13 @@ I'm currently seeking my first opportunity as a <strong>Backend Developer Intern
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=LuizFelipeLPG&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="170" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=LuizFelipeLPG&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="170" />
 <br>  
-<img src="https://streak-stats.demolab.com/?user=LuizFelipeLPG&theme=radical&hide_border=false" height="170" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=LuizFelipeLPG&theme=radical&hide_border=false" height="170" />
 <br>  
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LuizFelipeLPG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=LuizFelipeLPG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
 
 </div>
 
----
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=LuizFelipeLPG\&icon=6\&color=1)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
